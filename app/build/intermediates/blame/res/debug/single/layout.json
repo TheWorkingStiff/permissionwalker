@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/home/daniel/workspace/permissionwalker/app/build/intermediates/res/merged/debug/layout/auto_list_item.xml",
+        "source": "/home/daniel/workspace/permissionwalker/app/src/main/res/layout/auto_list_item.xml"
+    },
+    {
+        "merged": "/home/daniel/workspace/permissionwalker/app/build/intermediates/res/merged/debug/layout/list_item.xml",
+        "source": "/home/daniel/workspace/permissionwalker/app/src/main/res/layout/list_item.xml"
+    },
+    {
+        "merged": "/home/daniel/workspace/permissionwalker/app/build/intermediates/res/merged/debug/layout/permissions.xml",
+        "source": "/home/daniel/workspace/permissionwalker/app/src/main/res/layout/permissions.xml"
+    },
+    {
+        "merged": "/home/daniel/workspace/permissionwalker/app/build/intermediates/res/merged/debug/layout/main.xml",
+        "source": "/home/daniel/workspace/permissionwalker/app/src/main/res/layout/main.xml"
+    },
+    {
+        "merged": "/home/daniel/workspace/permissionwalker/app/build/intermediates/res/merged/debug/layout/albums.xml",
+        "source": "/home/daniel/workspace/permissionwalker/app/src/main/res/layout/albums.xml"
+    }
+]

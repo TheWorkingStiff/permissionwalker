@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/home/daniel/workspace/permissionwalker/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_tab_store.xml",
+        "source": "/home/daniel/workspace/permissionwalker/app/src/main/res/drawable-hdpi/ic_tab_store.xml"
+    },
+    {
+        "merged": "/home/daniel/workspace/permissionwalker/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_tab_perm_white.png",
+        "source": "/home/daniel/workspace/permissionwalker/app/src/main/res/drawable-hdpi/ic_tab_perm_white.png"
+    },
+    {
+        "merged": "/home/daniel/workspace/permissionwalker/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_tab_permit.xml",
+        "source": "/home/daniel/workspace/permissionwalker/app/src/main/res/drawable-hdpi/ic_tab_permit.xml"
+    },
+    {
+        "merged": "/home/daniel/workspace/permissionwalker/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_menu_about.png",
+        "source": "/home/daniel/workspace/permissionwalker/app/src/main/res/drawable-hdpi/ic_menu_about.png"
+    },
+    {
+        "merged": "/home/daniel/workspace/permissionwalker/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_tab_store_grey.png",
+        "source": "/home/daniel/workspace/permissionwalker/app/src/main/res/drawable-hdpi/ic_tab_store_grey.png"
+    },
+    {
+        "merged": "/home/daniel/workspace/permissionwalker/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/small_eye.png",
+        "source": "/home/daniel/workspace/permissionwalker/app/src/main/res/drawable-hdpi/small_eye.png"
+    },
+    {
+        "merged": "/home/daniel/workspace/permissionwalker/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/eye.png",
+        "source": "/home/daniel/workspace/permissionwalker/app/src/main/res/drawable-hdpi/eye.png"
+    },
+    {
+        "merged": "/home/daniel/workspace/permissionwalker/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_menu_help.png",
+        "source": "/home/daniel/workspace/permissionwalker/app/src/main/res/drawable-hdpi/ic_menu_help.png"
+    },
+    {
+        "merged": "/home/daniel/workspace/permissionwalker/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_tab_store_white.png",
+        "source": "/home/daniel/workspace/permissionwalker/app/src/main/res/drawable-hdpi/ic_tab_store_white.png"
+    },
+    {
+        "merged": "/home/daniel/workspace/permissionwalker/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_tab_perm_grey.png",
+        "source": "/home/daniel/workspace/permissionwalker/app/src/main/res/drawable-hdpi/ic_tab_perm_grey.png"
+    }
+]

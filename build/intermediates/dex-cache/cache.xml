@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/daniel/workspace/permissionwalker/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="064934a41b0244afd79ec64e525995dc017bbe56">
+        <dex dex="/home/daniel/workspace/permissionwalker/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_490bb336f5db821b79e9d1e4ab7105bffbdc81ad/classes.dex" />
+    </item>
+    <item
+        jar="/home/daniel/workspace/permissionwalker/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="b5f12a9a86b275d5641e35f1b4a281569f0dac42">
+        <dex dex="/home/daniel/workspace/permissionwalker/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_d02d2b0d85f47318e6e95e17049a7fac64391580/classes.dex" />
+    </item>
+
+</items>
